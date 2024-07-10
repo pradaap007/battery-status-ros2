@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating HardwareStatus.egg-info
+writing HardwareStatus.egg-info/PKG-INFO
+writing dependency_links to HardwareStatus.egg-info/dependency_links.txt
+writing entry points to HardwareStatus.egg-info/entry_points.txt
+writing requirements to HardwareStatus.egg-info/requires.txt
+writing top-level names to HardwareStatus.egg-info/top_level.txt
+writing manifest file 'HardwareStatus.egg-info/SOURCES.txt'
+reading manifest file 'HardwareStatus.egg-info/SOURCES.txt'
+writing manifest file 'HardwareStatus.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/praveen/msgandsrv/install/HardwareStatus/lib/python3.10/site-packages/HardwareStatus.egg-link (link to .)
+Installing hw_sts script to /home/praveen/msgandsrv/install/HardwareStatus/lib/HardwareStatus
+
+Installed /home/praveen/msgandsrv/build/HardwareStatus
+running symlink_data
+creating /home/praveen/msgandsrv/install/HardwareStatus/share/ament_index
+creating /home/praveen/msgandsrv/install/HardwareStatus/share/ament_index/resource_index
+creating /home/praveen/msgandsrv/install/HardwareStatus/share/ament_index/resource_index/packages
+symbolically linking /home/praveen/msgandsrv/build/HardwareStatus/resource/HardwareStatus -> /home/praveen/msgandsrv/install/HardwareStatus/share/ament_index/resource_index/packages
+symbolically linking /home/praveen/msgandsrv/build/HardwareStatus/package.xml -> /home/praveen/msgandsrv/install/HardwareStatus/share/HardwareStatus

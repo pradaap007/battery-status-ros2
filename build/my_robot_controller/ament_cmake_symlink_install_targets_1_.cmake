@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/praveen/msgandsrv/build/my_robot_controller/rosidl_generator_py/my_robot_controller/my_robot_controller_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" "TARGETS" "my_robot_controller__rosidl_typesupport_introspection_c__pyext" "DESTINATION" "local/lib/python3.10/dist-packages/my_robot_controller")

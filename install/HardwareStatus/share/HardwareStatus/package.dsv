@@ -1,0 +1,9 @@
+source;share/HardwareStatus/hook/pythonpath.ps1
+source;share/HardwareStatus/hook/pythonpath.dsv
+source;share/HardwareStatus/hook/pythonpath.sh
+source;share/HardwareStatus/hook/ament_prefix_path.ps1
+source;share/HardwareStatus/hook/ament_prefix_path.dsv
+source;share/HardwareStatus/hook/ament_prefix_path.sh
+source;../../build/HardwareStatus/share/HardwareStatus/hook/pythonpath_develop.ps1
+source;../../build/HardwareStatus/share/HardwareStatus/hook/pythonpath_develop.dsv
+source;../../build/HardwareStatus/share/HardwareStatus/hook/pythonpath_develop.sh

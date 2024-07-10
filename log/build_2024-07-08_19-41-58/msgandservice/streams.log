@@ -1,0 +1,24 @@
+[0.594s] Invoking command in '/home/praveen/msgandsrv/build/msgandservice': PYTHONPATH=/home/praveen/msgandsrv/build/msgandservice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/msgandsrv/install/msgandservice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/msgandsrv/build/msgandservice/build --no-deps symlink_data
+[0.823s] running develop
+[0.951s] running egg_info
+[0.951s] creating msgandservice.egg-info
+[0.951s] writing msgandservice.egg-info/PKG-INFO
+[0.952s] writing dependency_links to msgandservice.egg-info/dependency_links.txt
+[0.952s] writing entry points to msgandservice.egg-info/entry_points.txt
+[0.952s] writing requirements to msgandservice.egg-info/requires.txt
+[0.952s] writing top-level names to msgandservice.egg-info/top_level.txt
+[0.952s] writing manifest file 'msgandservice.egg-info/SOURCES.txt'
+[0.954s] reading manifest file 'msgandservice.egg-info/SOURCES.txt'
+[0.954s] writing manifest file 'msgandservice.egg-info/SOURCES.txt'
+[0.956s] running build_ext
+[0.956s] Creating /home/praveen/msgandsrv/install/msgandservice/lib/python3.10/site-packages/msgandservice.egg-link (link to .)
+[0.957s] Installing hw_sts script to /home/praveen/msgandsrv/install/msgandservice/lib/msgandservice
+[0.957s] 
+[0.957s] Installed /home/praveen/msgandsrv/build/msgandservice
+[0.957s] running symlink_data
+[0.957s] creating /home/praveen/msgandsrv/install/msgandservice/share/ament_index
+[0.957s] creating /home/praveen/msgandsrv/install/msgandservice/share/ament_index/resource_index
+[0.957s] creating /home/praveen/msgandsrv/install/msgandservice/share/ament_index/resource_index/packages
+[0.957s] symbolically linking /home/praveen/msgandsrv/build/msgandservice/resource/msgandservice -> /home/praveen/msgandsrv/install/msgandservice/share/ament_index/resource_index/packages
+[0.957s] symbolically linking /home/praveen/msgandsrv/build/msgandservice/package.xml -> /home/praveen/msgandsrv/install/msgandservice/share/msgandservice
+[1.003s] Invoked command in '/home/praveen/msgandsrv/build/msgandservice' returned '0': PYTHONPATH=/home/praveen/msgandsrv/build/msgandservice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/msgandsrv/install/msgandservice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/msgandsrv/build/msgandservice/build --no-deps symlink_data

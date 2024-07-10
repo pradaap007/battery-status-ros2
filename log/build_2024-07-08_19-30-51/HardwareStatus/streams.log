@@ -1,0 +1,24 @@
+[0.585s] Invoking command in '/home/praveen/msgandsrv/build/HardwareStatus': PYTHONPATH=/home/praveen/msgandsrv/build/HardwareStatus/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/msgandsrv/install/HardwareStatus/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/msgandsrv/build/HardwareStatus/build --no-deps symlink_data
+[0.816s] running develop
+[0.950s] running egg_info
+[0.951s] creating HardwareStatus.egg-info
+[0.951s] writing HardwareStatus.egg-info/PKG-INFO
+[0.951s] writing dependency_links to HardwareStatus.egg-info/dependency_links.txt
+[0.951s] writing entry points to HardwareStatus.egg-info/entry_points.txt
+[0.951s] writing requirements to HardwareStatus.egg-info/requires.txt
+[0.951s] writing top-level names to HardwareStatus.egg-info/top_level.txt
+[0.951s] writing manifest file 'HardwareStatus.egg-info/SOURCES.txt'
+[0.953s] reading manifest file 'HardwareStatus.egg-info/SOURCES.txt'
+[0.953s] writing manifest file 'HardwareStatus.egg-info/SOURCES.txt'
+[0.955s] running build_ext
+[0.955s] Creating /home/praveen/msgandsrv/install/HardwareStatus/lib/python3.10/site-packages/HardwareStatus.egg-link (link to .)
+[0.955s] Installing hw_sts script to /home/praveen/msgandsrv/install/HardwareStatus/lib/HardwareStatus
+[0.956s] 
+[0.956s] Installed /home/praveen/msgandsrv/build/HardwareStatus
+[0.956s] running symlink_data
+[0.956s] creating /home/praveen/msgandsrv/install/HardwareStatus/share/ament_index
+[0.956s] creating /home/praveen/msgandsrv/install/HardwareStatus/share/ament_index/resource_index
+[0.956s] creating /home/praveen/msgandsrv/install/HardwareStatus/share/ament_index/resource_index/packages
+[0.956s] symbolically linking /home/praveen/msgandsrv/build/HardwareStatus/resource/HardwareStatus -> /home/praveen/msgandsrv/install/HardwareStatus/share/ament_index/resource_index/packages
+[0.956s] symbolically linking /home/praveen/msgandsrv/build/HardwareStatus/package.xml -> /home/praveen/msgandsrv/install/HardwareStatus/share/HardwareStatus
+[0.988s] Invoked command in '/home/praveen/msgandsrv/build/HardwareStatus' returned '0': PYTHONPATH=/home/praveen/msgandsrv/build/HardwareStatus/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/msgandsrv/install/HardwareStatus/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/msgandsrv/build/HardwareStatus/build --no-deps symlink_data

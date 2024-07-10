@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating msgandservice.egg-info
+writing msgandservice.egg-info/PKG-INFO
+writing dependency_links to msgandservice.egg-info/dependency_links.txt
+writing entry points to msgandservice.egg-info/entry_points.txt
+writing requirements to msgandservice.egg-info/requires.txt
+writing top-level names to msgandservice.egg-info/top_level.txt
+writing manifest file 'msgandservice.egg-info/SOURCES.txt'
+reading manifest file 'msgandservice.egg-info/SOURCES.txt'
+writing manifest file 'msgandservice.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/praveen/msgandsrv/install/msgandservice/lib/python3.10/site-packages/msgandservice.egg-link (link to .)
+Installing hw_sts script to /home/praveen/msgandsrv/install/msgandservice/lib/msgandservice
+
+Installed /home/praveen/msgandsrv/build/msgandservice
+running symlink_data
+creating /home/praveen/msgandsrv/install/msgandservice/share/ament_index
+creating /home/praveen/msgandsrv/install/msgandservice/share/ament_index/resource_index
+creating /home/praveen/msgandsrv/install/msgandservice/share/ament_index/resource_index/packages
+symbolically linking /home/praveen/msgandsrv/build/msgandservice/resource/msgandservice -> /home/praveen/msgandsrv/install/msgandservice/share/ament_index/resource_index/packages
+symbolically linking /home/praveen/msgandsrv/build/msgandservice/package.xml -> /home/praveen/msgandsrv/install/msgandservice/share/msgandservice

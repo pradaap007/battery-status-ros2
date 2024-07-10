@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+msgandservice/__init__.py
+msgandservice/batterynode.py
+msgandservice/hardwarestatus.py
+msgandservice/ledpanel.py
+msgandservice.egg-info/PKG-INFO
+msgandservice.egg-info/SOURCES.txt
+msgandservice.egg-info/dependency_links.txt
+msgandservice.egg-info/entry_points.txt
+msgandservice.egg-info/requires.txt
+msgandservice.egg-info/top_level.txt
+msgandservice.egg-info/zip-safe
+resource/msgandservice

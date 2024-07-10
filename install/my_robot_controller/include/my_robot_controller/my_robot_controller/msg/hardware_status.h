@@ -1,0 +1,1 @@
+/home/praveen/msgandsrv/build/my_robot_controller/rosidl_generator_c/my_robot_controller/msg/hardware_status.h

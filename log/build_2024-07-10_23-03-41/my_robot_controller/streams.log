@@ -1,0 +1,183 @@
+[0.013s] Invoking command in '/home/praveen/msgandsrv/build/my_robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/msgandsrv/install/msgandservice:/home/praveen/msgandsrv/install/HardwareStatus:/home/praveen/udmey/install/activity:/home/praveen/manik/install/manikrobotic:/home/praveen/ros2_ws/install/hello:/opt/ros/humble /usr/bin/cmake --build /home/praveen/msgandsrv/build/my_robot_controller -- -j12 -l12
+[0.072s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_generator_c[0m
+[0.080s] [  1%] Built target my_robot_controller__cpp
+[0.083s] [ 12%] Built target my_robot_controller__rosidl_generator_c
+[0.089s] [ 12%] Built target ament_cmake_python_symlink_my_robot_controller
+[0.094s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_typesupport_cpp[0m
+[0.094s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_typesupport_introspection_cpp[0m
+[0.095s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_typesupport_fastrtps_cpp[0m
+[0.096s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_typesupport_introspection_c[0m
+[0.096s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_typesupport_c[0m
+[0.097s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_typesupport_fastrtps_c[0m
+[0.110s] [ 52%] Built target my_robot_controller__rosidl_typesupport_introspection_cpp
+[0.110s] [ 52%] Built target my_robot_controller__rosidl_typesupport_introspection_c
+[0.110s] [ 52%] Built target my_robot_controller__rosidl_typesupport_c
+[0.110s] [ 56%] Built target my_robot_controller__rosidl_typesupport_cpp
+[0.117s] [ 70%] Built target my_robot_controller__rosidl_typesupport_fastrtps_cpp
+[0.117s] [ 78%] Built target my_robot_controller__rosidl_typesupport_fastrtps_c
+[0.141s] [ 78%] Built target my_robot_controller
+[0.164s] [ 80%] Built target my_robot_controller__py
+[0.178s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_generator_py[0m
+[0.196s] [ 89%] Built target my_robot_controller__rosidl_generator_py
+[0.209s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_typesupport_c__pyext[0m
+[0.209s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.209s] [35m[1mConsolidate compiler generated dependencies of target my_robot_controller__rosidl_typesupport_introspection_c__pyext[0m
+[0.224s] [ 98%] Built target my_robot_controller__rosidl_typesupport_c__pyext
+[0.224s] [100%] Built target my_robot_controller__rosidl_typesupport_fastrtps_c__pyext
+[0.224s] [100%] Built target my_robot_controller__rosidl_typesupport_introspection_c__pyext
+[0.309s] running egg_info
+[0.309s] writing my_robot_controller.egg-info/PKG-INFO
+[0.309s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.309s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.311s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.312s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.338s] [100%] Built target ament_cmake_python_build_my_robot_controller_egg
+[0.351s] Invoked command in '/home/praveen/msgandsrv/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/msgandsrv/install/msgandservice:/home/praveen/msgandsrv/install/HardwareStatus:/home/praveen/udmey/install/activity:/home/praveen/manik/install/manikrobotic:/home/praveen/ros2_ws/install/hello:/opt/ros/humble /usr/bin/cmake --build /home/praveen/msgandsrv/build/my_robot_controller -- -j12 -l12
+[0.493s] Invoking command in '/home/praveen/msgandsrv/build/my_robot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/msgandsrv/install/msgandservice:/home/praveen/msgandsrv/install/HardwareStatus:/home/praveen/udmey/install/activity:/home/praveen/manik/install/manikrobotic:/home/praveen/ros2_ws/install/hello:/opt/ros/humble /usr/bin/cmake --install /home/praveen/msgandsrv/build/my_robot_controller
+[0.510s] -- Install configuration: ""
+[0.511s] -- Execute custom install script
+[0.512s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/ament_index/resource_index/rosidl_interfaces/my_robot_controller
+[0.513s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__functions.h
+[0.513s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__struct.h
+[0.513s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__type_support.h
+[0.513s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__functions.h
+[0.513s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__struct.h
+[0.513s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__type_support.h
+[0.513s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/hardware_status.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/led_state.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/rosidl_generator_c__visibility_control.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/compute_rectangle_area.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__functions.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__struct.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__type_support.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__functions.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__struct.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__type_support.h
+[0.514s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/led_srv.h
+[0.515s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/environment/library_path.sh
+[0.515s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/environment/library_path.dsv
+[0.515s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__rosidl_typesupport_fastrtps_c.h
+[0.515s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__rosidl_typesupport_fastrtps_c.h
+[0.515s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.515s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__rosidl_typesupport_fastrtps_c.h
+[0.516s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__rosidl_typesupport_fastrtps_c.h
+[0.516s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__rosidl_typesupport_introspection_c.h
+[0.516s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__rosidl_typesupport_introspection_c.h
+[0.516s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.516s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__rosidl_typesupport_introspection_c.h
+[0.516s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__rosidl_typesupport_introspection_c.h
+[0.517s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__builder.hpp
+[0.517s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__struct.hpp
+[0.517s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__traits.hpp
+[0.517s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__builder.hpp
+[0.517s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__struct.hpp
+[0.517s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__traits.hpp
+[0.517s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/hardware_status.hpp
+[0.517s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/led_state.hpp
+[0.518s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/compute_rectangle_area.hpp
+[0.518s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__builder.hpp
+[0.518s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__struct.hpp
+[0.518s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__traits.hpp
+[0.518s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__builder.hpp
+[0.518s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__struct.hpp
+[0.518s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__traits.hpp
+[0.518s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/led_srv.hpp
+[0.519s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__rosidl_typesupport_fastrtps_cpp.hpp
+[0.519s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__rosidl_typesupport_fastrtps_cpp.hpp
+[0.519s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.519s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__rosidl_typesupport_fastrtps_cpp.hpp
+[0.519s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__rosidl_typesupport_fastrtps_cpp.hpp
+[0.519s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/hardware_status__rosidl_typesupport_introspection_cpp.hpp
+[0.519s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/msg/detail/led_state__rosidl_typesupport_introspection_cpp.hpp
+[0.520s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/compute_rectangle_area__rosidl_typesupport_introspection_cpp.hpp
+[0.520s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/include/my_robot_controller/my_robot_controller/srv/detail/led_srv__rosidl_typesupport_introspection_cpp.hpp
+[0.520s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/environment/pythonpath.sh
+[0.520s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/environment/pythonpath.dsv
+[0.520s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller-0.0.0-py3.10.egg-info/PKG-INFO
+[0.520s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.520s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.521s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller-0.0.0-py3.10.egg-info/top_level.txt
+[0.521s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/__init__.py
+[0.521s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/_my_robot_controller_s.ep.rosidl_typesupport_c.c
+[0.521s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/_my_robot_controller_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.521s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/_my_robot_controller_s.ep.rosidl_typesupport_introspection_c.c
+[0.521s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/libmy_robot_controller__rosidl_generator_py.so
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/msg/__init__.py
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/msg/_hardware_status.py
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/msg/_hardware_status_s.c
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/msg/_led_state.py
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/msg/_led_state_s.c
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/my_robot_controller_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/my_robot_controller_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/my_robot_controller_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/srv/__init__.py
+[0.522s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/srv/_compute_rectangle_area.py
+[0.523s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/srv/_compute_rectangle_area_s.c
+[0.523s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/srv/_led_srv.py
+[0.523s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/srv/_led_srv_s.c
+[0.523s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/my_robot_controller_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.523s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/my_robot_controller_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.524s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/my_robot_controller_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.524s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/msg/HardwareStatus.idl
+[0.524s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/msg/LedState.idl
+[0.525s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/srv/LedSrv.idl
+[0.525s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/srv/ComputeRectangleArea.idl
+[0.525s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/msg/HardwareStatus.msg
+[0.525s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/msg/LedState.msg
+[0.526s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/srv/LedSrv.srv
+[0.526s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/srv/LedSrv_Request.msg
+[0.526s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/srv/LedSrv_Response.msg
+[0.526s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/srv/ComputeRectangleArea.srv
+[0.527s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/srv/ComputeRectangleArea_Request.msg
+[0.527s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/srv/ComputeRectangleArea_Response.msg
+[0.527s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/ament_index/resource_index/package_run_dependencies/my_robot_controller
+[0.527s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/ament_index/resource_index/parent_prefix_path/my_robot_controller
+[0.528s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.sh
+[0.528s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/environment/ament_prefix_path.dsv
+[0.528s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/environment/path.sh
+[0.528s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/environment/path.dsv
+[0.528s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/local_setup.bash
+[0.529s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/local_setup.sh
+[0.529s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/local_setup.zsh
+[0.529s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/local_setup.dsv
+[0.529s] -- Symlinking: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/package.dsv
+[0.540s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/ament_index/resource_index/packages/my_robot_controller
+[0.540s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/rosidl_cmake-extras.cmake
+[0.541s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.541s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/ament_cmake_export_libraries-extras.cmake
+[0.541s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/ament_cmake_export_targets-extras.cmake
+[0.542s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.542s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.542s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.542s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig.cmake
+[0.543s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controllerConfig-version.cmake
+[0.543s] -- Up-to-date symlink: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/package.xml
+[0.543s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/lib/libmy_robot_controller__rosidl_generator_c.so
+[0.544s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/lib/libmy_robot_controller__rosidl_typesupport_fastrtps_c.so
+[0.545s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/lib/libmy_robot_controller__rosidl_typesupport_introspection_c.so
+[0.545s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/lib/libmy_robot_controller__rosidl_typesupport_c.so
+[0.546s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/lib/libmy_robot_controller__rosidl_typesupport_fastrtps_cpp.so
+[0.546s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/lib/libmy_robot_controller__rosidl_typesupport_introspection_cpp.so
+[0.547s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/lib/libmy_robot_controller__rosidl_typesupport_cpp.so
+[0.577s] Listing '/home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller'...
+[0.577s] Listing '/home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/msg'...
+[0.577s] Listing '/home/praveen/msgandsrv/install/my_robot_controller/local/lib/python3.10/dist-packages/my_robot_controller/srv'...
+[0.580s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/lib/libmy_robot_controller__rosidl_generator_py.so
+[0.581s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/export_my_robot_controller__rosidl_generator_cExport.cmake
+[0.581s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/export_my_robot_controller__rosidl_generator_cExport-noconfig.cmake
+[0.582s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/export_my_robot_controller__rosidl_typesupport_fastrtps_cExport.cmake
+[0.582s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/export_my_robot_controller__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.582s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controller__rosidl_typesupport_introspection_cExport.cmake
+[0.582s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controller__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.583s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controller__rosidl_typesupport_cExport.cmake
+[0.583s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controller__rosidl_typesupport_cExport-noconfig.cmake
+[0.583s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/export_my_robot_controller__rosidl_generator_cppExport.cmake
+[0.583s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/export_my_robot_controller__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.583s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/export_my_robot_controller__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.584s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controller__rosidl_typesupport_introspection_cppExport.cmake
+[0.584s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controller__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.584s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controller__rosidl_typesupport_cppExport.cmake
+[0.584s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/my_robot_controller__rosidl_typesupport_cppExport-noconfig.cmake
+[0.584s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/export_my_robot_controller__rosidl_generator_pyExport.cmake
+[0.584s] -- Up-to-date: /home/praveen/msgandsrv/install/my_robot_controller/share/my_robot_controller/cmake/export_my_robot_controller__rosidl_generator_pyExport-noconfig.cmake
+[0.587s] Invoked command in '/home/praveen/msgandsrv/build/my_robot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/praveen/msgandsrv/install/msgandservice:/home/praveen/msgandsrv/install/HardwareStatus:/home/praveen/udmey/install/activity:/home/praveen/manik/install/manikrobotic:/home/praveen/ros2_ws/install/hello:/opt/ros/humble /usr/bin/cmake --install /home/praveen/msgandsrv/build/my_robot_controller

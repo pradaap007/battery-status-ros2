@@ -1,0 +1,9 @@
+source;share/msgandservice/hook/pythonpath.ps1
+source;share/msgandservice/hook/pythonpath.dsv
+source;share/msgandservice/hook/pythonpath.sh
+source;share/msgandservice/hook/ament_prefix_path.ps1
+source;share/msgandservice/hook/ament_prefix_path.dsv
+source;share/msgandservice/hook/ament_prefix_path.sh
+source;../../build/msgandservice/share/msgandservice/hook/pythonpath_develop.ps1
+source;../../build/msgandservice/share/msgandservice/hook/pythonpath_develop.dsv
+source;../../build/msgandservice/share/msgandservice/hook/pythonpath_develop.sh

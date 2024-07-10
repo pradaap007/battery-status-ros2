@@ -1,0 +1,16 @@
+[0.573s] Invoking command in '/home/praveen/msgandsrv/build/msgandservice': PYTHONPATH=/home/praveen/msgandsrv/build/msgandservice/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/praveen/msgandsrv/install/msgandservice/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/praveen/msgandsrv/build/msgandservice/build --no-deps symlink_data
+[0.786s] running develop
+[0.907s] running egg_info
+[0.907s] writing msgandservice.egg-info/PKG-INFO
+[0.907s] writing dependency_links to msgandservice.egg-info/dependency_links.txt
+[0.908s] writing entry points to msgandservice.egg-info/entry_points.txt
+[0.908s] writing requirements to msgandservice.egg-info/requires.txt
+[0.908s] writing top-level names to msgandservice.egg-info/top_level.txt
+[0.909s] reading manifest file 'msgandservice.egg-info/SOURCES.txt'
+[0.910s] writing manifest file 'msgandservice.egg-info/SOURCES.txt'
+[0.911s] running build_ext
+[0.911s] Creating /home/praveen/msgandsrv/install/msgandservice/lib/python3.10/site-packages/msgandservice.egg-link (link to .)
+[0.912s] Installing hw_sts script to /home/praveen/msgandsrv/install/msgandservice/lib/msgandservice
+[0.912s] 
+[0.912s] Installed /home/praveen/msgandsrv/build/msgandservice
+[0.912s] running symlink_data

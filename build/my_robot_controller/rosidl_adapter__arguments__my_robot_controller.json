@@ -1,0 +1,9 @@
+{
+  "package_name": "my_robot_controller",
+  "non_idl_tuples": [
+    "/home/praveen/msgandsrv/src/my_robot_controller:msg/HardwareStatus.msg",
+    "/home/praveen/msgandsrv/src/my_robot_controller:msg/LedState.msg",
+    "/home/praveen/msgandsrv/src/my_robot_controller:srv/LedSrv.srv",
+    "/home/praveen/msgandsrv/src/my_robot_controller:srv/ComputeRectangleArea.srv"
+  ]
+}

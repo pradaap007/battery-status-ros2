@@ -1,0 +1,5 @@
+[console_scripts]
+batterytest = msgandservice.batterynode:main
+hw_sts = msgandservice.hardwarestatus:main
+ledpanelnode = msgandservice.ledpanel:main
+

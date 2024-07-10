@@ -1,0 +1,3 @@
+[console_scripts]
+hw_sts = HardwareStatus.hardwarestatus:main
+
